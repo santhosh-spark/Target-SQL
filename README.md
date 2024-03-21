@@ -44,7 +44,7 @@ As a data scientist at Target, you've been given the exciting opportunity to ana
 📊 Let's dive into the data and see what insights we can gather. 💻 Happy analyzing! 🤓
 
 
-🙏 **PLEASE CHECK THE REPORT FOR DETAILED ANALYSIS AND DAZZLING DATA VISUALIZATION. THANKS!** 📊✨
+🙏 **PLEASE CHECK THE REPORT FOR DETAILED ANALYSIS. THANKS!** 📊✨
 
 
 
