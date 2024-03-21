@@ -1,11 +1,12 @@
 # Target-SQL
-![image](https://github.com/santhosh-spark/Target-SQL/assets/73495628/483176d4-8b88-41cc-911d-9e7da51e06e2)
+![image](https://github.com/santhosh-spark/Target-SQL/assets/73495628/ec8ac2b1-b268-4577-8446-00704ad6c221)
+
 
 🚀 Welcome to the Target Data Analysis project! 🎉
 
 As a data scientist at Target, you've been given the exciting opportunity to analyze 100k orders from 2016 to 2018 made at Target in Brazil. 🌎🇧🇷
 
-📚 The dataset is available in 8 csv files:
+📚 The dataset is available in 8 CSV files:
 
 1. customers.csv 🧑‍🤝‍🧑
 2. geolocation.csv 🗺️
